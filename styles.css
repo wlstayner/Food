@@ -1,0 +1,12 @@
+body
+{
+  background-color: white;
+}
+
+div#main {
+max-width: 700px;
+margin: 0 auto;
+
+}
+
+p{text-size: 100 px}
